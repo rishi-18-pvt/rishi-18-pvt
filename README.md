@@ -1,12 +1,21 @@
+👋 Hi, I'm Rishi R, a Pre-Final Year BE CSE student at Jansons Institute of Technology, Coimbatore. 
+
+💼 Experience:
+- Ex-Intern at DNYX (Frontend)
+- GDSC Member
+- Campus Ambassador at E-Cell IIT Bombay
+- NCC Cadet
+- NSS Volunteer
+
+💡 Enthusiast:
+- MERN Stack
+
+🛠 Skills:
+- Frontend Development
+- 3D Modelling
+- Team Management
+
+🚀 Eagerly seeking internship opportunities to enhance and apply my skills.
 
 
 
-
-🔭 I’m currently pursuing B.E. CSE at Jansons Institute Of Technology
-
-
-💡 Contributing to Open Source Projects is always been a goal to me.
-
-📫reach me through rishirreddy18@gmail.com
-
-⚡ delving deep into tech
